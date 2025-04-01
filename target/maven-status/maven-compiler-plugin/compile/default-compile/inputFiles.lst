@@ -1,0 +1,8 @@
+/project/sandbox/user-workspace/src/main/java/com/jobportal/models/Application.java
+/project/sandbox/user-workspace/src/main/java/com/jobportal/security/SecurityConfig.java
+/project/sandbox/user-workspace/src/main/java/com/jobportal/controllers/JobController.java
+/project/sandbox/user-workspace/src/main/java/com/jobportal/models/Job.java
+/project/sandbox/user-workspace/src/main/java/com/jobportal/repositories/JobRepository.java
+/project/sandbox/user-workspace/src/main/java/com/jobportal/repositories/ApplicationRepository.java
+/project/sandbox/user-workspace/src/main/java/com/jobportal/JobApplicationPortalApplication.java
+/project/sandbox/user-workspace/src/main/java/com/jobportal/controllers/ApplicationController.java
